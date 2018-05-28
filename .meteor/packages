@@ -21,3 +21,4 @@ kadira:flow-router
 kadira:blaze-layout
 npm-bcrypt
 accounts-ui
+accounts-password
